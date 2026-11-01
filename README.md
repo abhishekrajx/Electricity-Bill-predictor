@@ -130,5 +130,4 @@ The bill error (mean absolute difference between actual and predicted bill per 3
 - Use sub-metering columns for appliance-level insights
 
 ## License
-
-MIT (or your institution's choice).
+Open Source (or your institution's choice).
